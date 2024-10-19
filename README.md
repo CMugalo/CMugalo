@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://github.com/CMugalo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CMugalo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CMugalo&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CMugalo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CMugalo&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
 </a>
 </p>
